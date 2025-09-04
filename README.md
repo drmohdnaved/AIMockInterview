@@ -1,4 +1,4 @@
-
+Simply put your Gemini API Key in the .env file, and run on your local machine.
 ---
 
 ## ✨ Features
