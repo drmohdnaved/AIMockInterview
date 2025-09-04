@@ -51,9 +51,8 @@
 | Virtual Interview Simulation | ![Virtual Interview Simulation](screenshots/5.png) |
 | Final Report | ![Final Report](screenshots/6.png) |
 
-*(Replace `screenshots/*.png` with your actual file paths.)*
 
 ---
 
-## 📂 Project Structure
+## Feel free to ping me on my Linked https://www.linkedin.com/in/mohdnaved/ 
 
