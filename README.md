@@ -47,8 +47,10 @@ Run the application locally to test the full workflow.
 | Feature | Screenshot |
 |---------|------------|
 | Upload Resume & Job Description | ![Upload Screenshot](screenshots/1.png) |
-| Tailored Question Generation | ![Question Generation Screenshot](screenshots/2.png) |
+| Upload Resume & Job Description | ![Upload Screenshot](screenshots/1.png) |
+| Selected Language (English/Hindi) | ![Select Language (English/Hindi)](screenshots/2.png) |
 | Virtual Interview Simulation | ![Interview Simulation Screenshot](screenshots/3.png) |
+| Real-time Audio Response Processing | ![Response Processing Screenshot](screenshots/4.png) |
 | Real-time Audio Response Processing | ![Response Processing Screenshot](screenshots/4.png) |
 
 *(Replace `screenshots/*.png` with your actual file paths.)*
