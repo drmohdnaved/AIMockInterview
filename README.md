@@ -1,6 +1,4 @@
 
-Run the application locally to test the full workflow.
-
 ---
 
 ## ✨ Features
@@ -46,12 +44,12 @@ Run the application locally to test the full workflow.
 
 | Feature | Screenshot |
 |---------|------------|
-| Upload Resume & Job Description | ![Upload Screenshot](screenshots/1.png) |
+| The App Frontend | ![Front Page ](screenshots/1.png) |
 | Upload Resume & Job Description | ![Upload Screenshot](screenshots/2.png) |
 | Selected Language (English/Hindi) | ![Select Language (English/Hindi)](screenshots/3.png) |
-| Virtual Interview Simulation | ![Interview Simulation Screenshot](screenshots/4.png) |
-| Real-time Audio Response Processing | ![Response Processing Screenshot](screenshots/5.png) |
-| Real-time Audio Response Processing | ![Response Processing Screenshot](screenshots/6.png) |
+| Extracted Information from CV and JD | ![Extracted Information from CV and JD](screenshots/4.png) |
+| Virtual Interview Simulation | ![Virtual Interview Simulation](screenshots/5.png) |
+| Final Report | ![Final Report](screenshots/6.png) |
 
 *(Replace `screenshots/*.png` with your actual file paths.)*
 
