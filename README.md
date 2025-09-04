@@ -1,2 +1,4 @@
-# AIMockInterview
-Mock Interview by AI (Provide your CV and JD), based on it willl ask questions and will analyse the responses and will give final report.
+# Mock Interview PoC
+
+
+To get started, take a look at src/app/page.tsx.
